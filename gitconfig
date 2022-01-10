@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = huangshewei@gmail.com
+	name = Huang Shewei
