@@ -52,3 +52,5 @@
 [user]
 	email = huangshewei@gmail.com
 	name = Huang Shewei
+[init]
+	defaultBranch = main
